@@ -32,10 +32,17 @@ estereoscopia, ao efeito paralaxe e à visão binocular.
 
 ### Métodos
 #### True
+<img src="https://github.com/mathara/Anaglyph/blob/main/img/0112_F_Color_Anaglyphs.png" 
+width="300" height="300">
+
 #### Gray
+
 #### Color / Photoshop
+
 #### Half Color
+
 #### Optimized
+
 
 ### Links úteis:
 
