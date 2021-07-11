@@ -30,19 +30,31 @@ A base utilizada para realizar os experimentos foi a [Flickr1024](https://yingqi
 um banco de imagens já utilizando em diversos outros estudos e resoluções de problemas relacionados à 
 estereoscopia, ao efeito paralaxe e à visão binocular.
 
+<img src="https://github.com/mathara/Anaglyph/blob/main/img/0112_L.png" 
+width="400" height="300"> <img src="https://github.com/mathara/Anaglyph/blob/main/img/0112_R.png" 
+width="400" height="300">
+
+
 ### Métodos
 #### True
-<img src="https://github.com/mathara/Anaglyph/blob/main/img/0112_F_Color_Anaglyphs.png" 
-width="300" height="300">
+<img src="https://github.com/mathara/Anaglyph/blob/main/img/0112_F_True_Anaglyphs.png" 
+width="400" height="300">
 
 #### Gray
+<img src="https://github.com/mathara/Anaglyph/blob/main/img/0112_F_Gray_Anaglyphs.png" 
+width="400" height="300">
 
 #### Color / Photoshop
+<img src="https://github.com/mathara/Anaglyph/blob/main/img/0112_F_Color_Anaglyphs.png" 
+width="400" height="300">
 
 #### Half Color
+<img src="https://github.com/mathara/Anaglyph/blob/main/img/0112_F_Half_Color_Anaglyphs.png" 
+width="400" height="300">
 
 #### Optimized
-
+<img src="https://github.com/mathara/Anaglyph/blob/main/img/0112_F_Winner_Map_Anaglyphs.png" 
+width="400" height="300">
 
 ### Links úteis:
 
@@ -50,8 +62,9 @@ Trabalhos Relacionados:
 
 - [Comparação de Métodos Anáglifos](http://www.3dtv.at/Knowhow/AnaglyphComparison_en.aspx)
 - [Base de Imagens Flickr1024](https://yingqianwang.github.io/Flickr1024/)
-
-
+- [StereoscoPy](https://github.com/2sh/StereoscoPy)
+- [Anaglypher](https://github.com/pedrofrodenas/anaglypher)
+- [Anaglyph.py](https://github.com/miguelgrinberg/anaglyph.py) 
 
 
 
